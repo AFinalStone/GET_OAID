@@ -43,4 +43,4 @@ CNAdID为稳定设备标示，有良好的反作弊对抗特征，详细信息�
 
 关于OAID我这里会提供一个简单的案例供大家参考，当然大家也可以去[移动安全联盟官网](http://msa-alliance.cn/col.jsp?id=120)使用具体的SDK来获取自己想要的OAID。
 
-项目地址：
+项目地址：[传送门](https://github.com/AFinalStone/GET_OAID)
